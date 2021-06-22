@@ -1,2 +1,2 @@
 # DeltaOne
-Post issues from deltaone.ch here!
+Post issues from www.deltaone.ch here!
